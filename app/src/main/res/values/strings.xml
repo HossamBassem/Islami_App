@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">App islami</string>
+    <string name="quarn">Quarn</string>
+    <string name="hadeth">Hadeth</string>
+    <string name="tasbeh">Tasbeh</string>
+    <string name="radio">Radio</string>
+    <string name="chapter_name">Chapter Name</string>
+    <string name="hadeth_name">Hadeth Name</string>
+    <string name="Book_name" />
+    <string name="book_name">Book Name</string>
+    <string name="saheh_el_bokhary">Saheh El-Bokhary</string>
+    <string name="saheh_muslem">Saheh Muslem</string>
 </resources>

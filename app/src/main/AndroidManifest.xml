@@ -27,6 +27,7 @@
         <activity android:name=".mainActivity.MainActivity">
 
         </activity>
+        <activity android:name=".Hadeth.HadethDetails2"></activity>
     </application>
 
 </manifest>

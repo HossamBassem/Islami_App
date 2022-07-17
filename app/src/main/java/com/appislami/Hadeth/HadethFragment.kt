@@ -35,7 +35,10 @@ class HadethFragment : Fragment() {
 
 
         var buttonMuslem: Button = requireView().findViewById(R.id.book2) as Button
-
+           buttonMuslem.setOnClickListener {
+               val intent=Intent(requireContext(),HadethDetails2::class.java)
+               startActivity(intent)
+           }
     }
 
         }

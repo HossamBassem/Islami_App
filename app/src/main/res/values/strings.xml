@@ -10,4 +10,6 @@
     <string name="book_name">Book Name</string>
     <string name="saheh_el_bokhary">Saheh El-Bokhary</string>
     <string name="saheh_muslem">Saheh Muslem</string>
+    <string name="number_of_tasbeh">Number Of Tasbeh</string>
+    <string name="sobhan_allh">سبحان الله</string>
 </resources>

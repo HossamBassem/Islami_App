@@ -35,7 +35,8 @@ android {
 dependencies {
     def lifecycle_version = "2.0.0"
     implementation fileTree(dir: "libs", include: ["*.jar"])
-
+    implementation 'com.squareup.retrofit2:retrofit:2.4.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
     implementation "androidx.lifecycle:lifecycle-extensions:$lifecycle_version"
     implementation 'com.github.chrisbanes:PhotoView:2.0.0'
     implementation 'androidx.viewpager2:viewpager2:1.0.0'

@@ -22,7 +22,7 @@ class TasbehFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
 
-        return inflater.inflate(R.layout.fragment_tasbeh, container, false)
+       return inflater.inflate(R.layout.fragment_tasbeh,container,false)
 
 
     }
